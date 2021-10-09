@@ -1,0 +1,8 @@
+(module antenna_5_turn_0_4mm_p_0_4mm_w (layer F.Cu) (tedit 615F2543)
+  (fp_text reference REF** (at 0 0.5) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value antenna_5_turn_0_4mm_p_0_4mm_w (at 0 -0.5) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+)
