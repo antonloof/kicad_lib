@@ -508,7 +508,7 @@
     (property "Value" "CS42438" (id 1) (at 0 50.165 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_QFP:LQFP-52_10x10mm_P0.65mm" (id 2) (at 1.27 55.88 0)
+    (property "Footprint" "good_things:QFP-52_14x14_Pitch0.65mm" (id 2) (at 1.27 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://d3uzseaevmutz1.cloudfront.net/pubs/proDatasheet/CS42438_F5.pdf" (id 3) (at 0.635 53.34 0)
