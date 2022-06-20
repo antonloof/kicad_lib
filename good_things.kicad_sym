@@ -425,7 +425,7 @@
     (symbol "BA33BC0FP-E2_0_1"
       (rectangle (start -6.35 5.08) (end 6.35 -5.08)
         (stroke (width 0) (type default) (color 0 0 0 0))
-        (fill (type none))
+        (fill (type background))
       )
     )
     (symbol "BA33BC0FP-E2_1_1"
